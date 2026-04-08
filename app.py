@@ -45,8 +45,6 @@ Python, Streamlit, NLP, Scikit-learn, Matplotlib
 ### 💡 Goal:
 Help candidates improve resumes and increase job selection chances.
     """)
-
-    st.success("✅ Final Year Project | MCA")
     st.stop()
 
 # ---------------- FILE UPLOAD ----------------
